@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\sandeep.varma\\source\\repos\\Methodfunctions\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B9F01C84-10A5-4454-8464-D742FB52947D}|Methodfunctions\\Methodfunctions.csproj|c:\\users\\sandeep.varma\\source\\repos\\methodfunctions\\methodfunctions\\model\\circle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9F01C84-10A5-4454-8464-D742FB52947D}|Methodfunctions\\Methodfunctions.csproj|solutionrelative:methodfunctions\\model\\circle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9F01C84-10A5-4454-8464-D742FB52947D}|Methodfunctions\\Methodfunctions.csproj|c:\\users\\sandeep.varma\\source\\repos\\methodfunctions\\methodfunctions\\model\\shape.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9F01C84-10A5-4454-8464-D742FB52947D}|Methodfunctions\\Methodfunctions.csproj|solutionrelative:methodfunctions\\model\\shape.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9F01C84-10A5-4454-8464-D742FB52947D}|Methodfunctions\\Methodfunctions.csproj|c:\\users\\sandeep.varma\\source\\repos\\methodfunctions\\methodfunctions\\controllers\\shapecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9F01C84-10A5-4454-8464-D742FB52947D}|Methodfunctions\\Methodfunctions.csproj|solutionrelative:methodfunctions\\controllers\\shapecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9F01C84-10A5-4454-8464-D742FB52947D}|Methodfunctions\\Methodfunctions.csproj|c:\\users\\sandeep.varma\\source\\repos\\methodfunctions\\methodfunctions\\controllers\\calculatorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9F01C84-10A5-4454-8464-D742FB52947D}|Methodfunctions\\Methodfunctions.csproj|solutionrelative:methodfunctions\\controllers\\calculatorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9F01C84-10A5-4454-8464-D742FB52947D}|Methodfunctions\\Methodfunctions.csproj|c:\\users\\sandeep.varma\\source\\repos\\methodfunctions\\methodfunctions\\methodfunctions.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{B9F01C84-10A5-4454-8464-D742FB52947D}|Methodfunctions\\Methodfunctions.csproj|solutionrelative:methodfunctions\\methodfunctions.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ShapeController.cs",
+              "DocumentMoniker": "C:\\Users\\sandeep.varma\\source\\repos\\Methodfunctions\\Methodfunctions\\Controllers\\ShapeController.cs",
+              "RelativeDocumentMoniker": "Methodfunctions\\Controllers\\ShapeController.cs",
+              "ToolTip": "C:\\Users\\sandeep.varma\\source\\repos\\Methodfunctions\\Methodfunctions\\Controllers\\ShapeController.cs*",
+              "RelativeToolTip": "Methodfunctions\\Controllers\\ShapeController.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-18T06:38:01.675Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Circle.cs",
+              "DocumentMoniker": "C:\\Users\\sandeep.varma\\source\\repos\\Methodfunctions\\Methodfunctions\\Model\\Circle.cs",
+              "RelativeDocumentMoniker": "Methodfunctions\\Model\\Circle.cs",
+              "ToolTip": "C:\\Users\\sandeep.varma\\source\\repos\\Methodfunctions\\Methodfunctions\\Model\\Circle.cs*",
+              "RelativeToolTip": "Methodfunctions\\Model\\Circle.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-18T06:36:21.751Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Shape.cs",
+              "DocumentMoniker": "C:\\Users\\sandeep.varma\\source\\repos\\Methodfunctions\\Methodfunctions\\Model\\Shape.cs",
+              "RelativeDocumentMoniker": "Methodfunctions\\Model\\Shape.cs",
+              "ToolTip": "C:\\Users\\sandeep.varma\\source\\repos\\Methodfunctions\\Methodfunctions\\Model\\Shape.cs*",
+              "RelativeToolTip": "Methodfunctions\\Model\\Shape.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-18T06:35:00.452Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Methodfunctions",
+              "DocumentMoniker": "C:\\Users\\sandeep.varma\\source\\repos\\Methodfunctions\\Methodfunctions\\Methodfunctions.csproj",
+              "RelativeDocumentMoniker": "Methodfunctions\\Methodfunctions.csproj",
+              "ToolTip": "C:\\Users\\sandeep.varma\\source\\repos\\Methodfunctions\\Methodfunctions\\Methodfunctions.csproj*",
+              "RelativeToolTip": "Methodfunctions\\Methodfunctions.csproj*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-10-18T06:34:37.953Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CalculatorController.cs",
+              "DocumentMoniker": "C:\\Users\\sandeep.varma\\source\\repos\\Methodfunctions\\Methodfunctions\\Controllers\\CalculatorController.cs",
+              "RelativeDocumentMoniker": "Methodfunctions\\Controllers\\CalculatorController.cs",
+              "ToolTip": "C:\\Users\\sandeep.varma\\source\\repos\\Methodfunctions\\Methodfunctions\\Controllers\\CalculatorController.cs*",
+              "RelativeToolTip": "Methodfunctions\\Controllers\\CalculatorController.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-18T06:27:43.658Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

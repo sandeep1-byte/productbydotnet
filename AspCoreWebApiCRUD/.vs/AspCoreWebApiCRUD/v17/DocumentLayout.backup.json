@@ -1,0 +1,117 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\sandeep.varma\\source\\repos\\AspCoreWebApiCRUD\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B50005FC-FE22-493C-B938-E5D1E49D0327}|AspCoreWebApiCRUD\\AspCoreWebApiCRUD.csproj|c:\\users\\sandeep.varma\\source\\repos\\aspcorewebapicrud\\aspcorewebapicrud\\services\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B50005FC-FE22-493C-B938-E5D1E49D0327}|AspCoreWebApiCRUD\\AspCoreWebApiCRUD.csproj|solutionrelative:aspcorewebapicrud\\services\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B50005FC-FE22-493C-B938-E5D1E49D0327}|AspCoreWebApiCRUD\\AspCoreWebApiCRUD.csproj|c:\\users\\sandeep.varma\\source\\repos\\aspcorewebapicrud\\aspcorewebapicrud\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B50005FC-FE22-493C-B938-E5D1E49D0327}|AspCoreWebApiCRUD\\AspCoreWebApiCRUD.csproj|solutionrelative:aspcorewebapicrud\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B50005FC-FE22-493C-B938-E5D1E49D0327}|AspCoreWebApiCRUD\\AspCoreWebApiCRUD.csproj|c:\\users\\sandeep.varma\\source\\repos\\aspcorewebapicrud\\aspcorewebapicrud\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B50005FC-FE22-493C-B938-E5D1E49D0327}|AspCoreWebApiCRUD\\AspCoreWebApiCRUD.csproj|solutionrelative:aspcorewebapicrud\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B50005FC-FE22-493C-B938-E5D1E49D0327}|AspCoreWebApiCRUD\\AspCoreWebApiCRUD.csproj|c:\\users\\sandeep.varma\\source\\repos\\aspcorewebapicrud\\aspcorewebapicrud\\model\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B50005FC-FE22-493C-B938-E5D1E49D0327}|AspCoreWebApiCRUD\\AspCoreWebApiCRUD.csproj|solutionrelative:aspcorewebapicrud\\model\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B50005FC-FE22-493C-B938-E5D1E49D0327}|AspCoreWebApiCRUD\\AspCoreWebApiCRUD.csproj|c:\\users\\sandeep.varma\\source\\repos\\aspcorewebapicrud\\aspcorewebapicrud\\model\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B50005FC-FE22-493C-B938-E5D1E49D0327}|AspCoreWebApiCRUD\\AspCoreWebApiCRUD.csproj|solutionrelative:aspcorewebapicrud\\model\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B50005FC-FE22-493C-B938-E5D1E49D0327}|AspCoreWebApiCRUD\\AspCoreWebApiCRUD.csproj|c:\\users\\sandeep.varma\\source\\repos\\aspcorewebapicrud\\aspcorewebapicrud\\migrations\\20241009100630_student first.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B50005FC-FE22-493C-B938-E5D1E49D0327}|AspCoreWebApiCRUD\\AspCoreWebApiCRUD.csproj|solutionrelative:aspcorewebapicrud\\migrations\\20241009100630_student first.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\sandeep.varma\\source\\repos\\AspCoreWebApiCRUD\\AspCoreWebApiCRUD\\Services\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "AspCoreWebApiCRUD\\Services\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\sandeep.varma\\source\\repos\\AspCoreWebApiCRUD\\AspCoreWebApiCRUD\\Services\\ApplicationDbContext.cs",
+              "RelativeToolTip": "AspCoreWebApiCRUD\\Services\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T05:45:16.351Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "EmployeeController.cs",
+              "DocumentMoniker": "C:\\Users\\sandeep.varma\\source\\repos\\AspCoreWebApiCRUD\\AspCoreWebApiCRUD\\Controllers\\EmployeeController.cs",
+              "RelativeDocumentMoniker": "AspCoreWebApiCRUD\\Controllers\\EmployeeController.cs",
+              "ToolTip": "C:\\Users\\sandeep.varma\\source\\repos\\AspCoreWebApiCRUD\\AspCoreWebApiCRUD\\Controllers\\EmployeeController.cs",
+              "RelativeToolTip": "AspCoreWebApiCRUD\\Controllers\\EmployeeController.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABwAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T11:33:44.984Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\Users\\sandeep.varma\\source\\repos\\AspCoreWebApiCRUD\\AspCoreWebApiCRUD\\Model\\Employee.cs",
+              "RelativeDocumentMoniker": "AspCoreWebApiCRUD\\Model\\Employee.cs",
+              "ToolTip": "C:\\Users\\sandeep.varma\\source\\repos\\AspCoreWebApiCRUD\\AspCoreWebApiCRUD\\Model\\Employee.cs",
+              "RelativeToolTip": "AspCoreWebApiCRUD\\Model\\Employee.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T11:33:02.035Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "20241009100630_Student first.cs",
+              "DocumentMoniker": "C:\\Users\\sandeep.varma\\source\\repos\\AspCoreWebApiCRUD\\AspCoreWebApiCRUD\\Migrations\\20241009100630_Student first.cs",
+              "RelativeDocumentMoniker": "AspCoreWebApiCRUD\\Migrations\\20241009100630_Student first.cs",
+              "ToolTip": "C:\\Users\\sandeep.varma\\source\\repos\\AspCoreWebApiCRUD\\AspCoreWebApiCRUD\\Migrations\\20241009100630_Student first.cs",
+              "RelativeToolTip": "AspCoreWebApiCRUD\\Migrations\\20241009100630_Student first.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T10:06:30.493Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Users\\sandeep.varma\\source\\repos\\AspCoreWebApiCRUD\\AspCoreWebApiCRUD\\Model\\Student.cs",
+              "RelativeDocumentMoniker": "AspCoreWebApiCRUD\\Model\\Student.cs",
+              "ToolTip": "C:\\Users\\sandeep.varma\\source\\repos\\AspCoreWebApiCRUD\\AspCoreWebApiCRUD\\Model\\Student.cs",
+              "RelativeToolTip": "AspCoreWebApiCRUD\\Model\\Student.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T09:59:48.403Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\sandeep.varma\\source\\repos\\AspCoreWebApiCRUD\\AspCoreWebApiCRUD\\Program.cs",
+              "RelativeDocumentMoniker": "AspCoreWebApiCRUD\\Program.cs",
+              "ToolTip": "C:\\Users\\sandeep.varma\\source\\repos\\AspCoreWebApiCRUD\\AspCoreWebApiCRUD\\Program.cs",
+              "RelativeToolTip": "AspCoreWebApiCRUD\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T09:14:29.912Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

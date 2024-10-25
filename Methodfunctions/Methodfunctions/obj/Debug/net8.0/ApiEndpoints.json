@@ -1,0 +1,65 @@
+[
+  {
+    "ContainingType": "Methodfunctions.Controllers.CalculatorController",
+    "Method": "Add",
+    "RelativePath": "api/Calculator/add/{a}/{b}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "a",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "b",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Methodfunctions.Controllers.CalculatorController",
+    "Method": "Add",
+    "RelativePath": "api/Calculator/add/{a}/{b}/{c}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "a",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "b",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "c",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Methodfunctions.Controllers.ShapeController",
+    "Method": "GetCircleArea",
+    "RelativePath": "api/Shape/circle/area/{radius}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "radius",
+        "Type": "System.Double",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]

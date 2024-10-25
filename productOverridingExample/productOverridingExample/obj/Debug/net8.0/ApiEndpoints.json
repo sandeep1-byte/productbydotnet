@@ -1,0 +1,91 @@
+[
+  {
+    "ContainingType": "productOverridingExample.Controllers.ProductController",
+    "Method": "Calculate",
+    "RelativePath": "api/Product/calculate/{basePrice}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "basePrice",
+        "Type": "System.Double",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "productOverridingExample.Controllers.ProductController",
+    "Method": "Calculate",
+    "RelativePath": "api/Product/calculate/{basePrice}/{shippingCost}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "basePrice",
+        "Type": "System.Double",
+        "IsRequired": true
+      },
+      {
+        "Name": "shippingCost",
+        "Type": "System.Double",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "productOverridingExample.Controllers.ProductController",
+    "Method": "GetDigitalProductPrice",
+    "RelativePath": "api/Product/digitalproduct/price/{name}/{basePrice}/{discount}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "name",
+        "Type": "System.String",
+        "IsRequired": true
+      },
+      {
+        "Name": "basePrice",
+        "Type": "System.Double",
+        "IsRequired": true
+      },
+      {
+        "Name": "discount",
+        "Type": "System.Double",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "productOverridingExample.Controllers.ProductController",
+    "Method": "GetPhysicalProductPrice",
+    "RelativePath": "api/Product/physicalproduct/price/{name}/{basePrice}/{shippingCost}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "name",
+        "Type": "System.String",
+        "IsRequired": true
+      },
+      {
+        "Name": "basePrice",
+        "Type": "System.Double",
+        "IsRequired": true
+      },
+      {
+        "Name": "shippingCost",
+        "Type": "System.Double",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]

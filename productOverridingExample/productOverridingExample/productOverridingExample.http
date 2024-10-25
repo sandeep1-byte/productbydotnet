@@ -1,0 +1,6 @@
+@productOverridingExample_HostAddress = http://localhost:5049
+
+GET {{productOverridingExample_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

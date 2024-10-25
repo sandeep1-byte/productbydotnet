@@ -1,0 +1,6 @@
+@Methodfunctions_HostAddress = http://localhost:5284
+
+GET {{Methodfunctions_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

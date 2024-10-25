@@ -1,0 +1,26 @@
+@AspCoreWebApiCRUD_HostAddress = https://localhost:7272
+
+GET {{AspCoreWebApiCRUD_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
+
+GET {{AspCoreWebApiCRUD_HostAddress}}/api/studentapi
+
+###
+
+POST {{AspCoreWebApiCRUD_HostAddress}}/api/studentapi
+Content-Type: application/json
+
+{
+  "id": 0,
+  "studentName": "abc",
+  "gender": "male",
+  "age": 34
+}
+
+###
+
+GET {{AspCoreWebApiCRUD_HostAddress}}/api/studentapi/13
+
+###

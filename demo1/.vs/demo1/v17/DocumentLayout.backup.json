@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\sandeep.varma\\source\\repos\\demo1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2850C681-A527-47EE-B1B3-843823EC6D78}|demo1\\demo1.csproj|c:\\users\\sandeep.varma\\source\\repos\\demo1\\demo1\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2850C681-A527-47EE-B1B3-843823EC6D78}|demo1\\demo1.csproj|solutionrelative:demo1\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "C:\\Users\\sandeep.varma\\source\\repos\\demo1\\demo1\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "demo1\\Controllers\\UserController.cs",
+              "ToolTip": "C:\\Users\\sandeep.varma\\source\\repos\\demo1\\demo1\\Controllers\\UserController.cs",
+              "RelativeToolTip": "demo1\\Controllers\\UserController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC8AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-24T09:45:38.98Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

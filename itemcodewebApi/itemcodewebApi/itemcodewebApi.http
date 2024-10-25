@@ -1,0 +1,6 @@
+@itemcodewebApi_HostAddress = http://localhost:5024
+
+GET {{itemcodewebApi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

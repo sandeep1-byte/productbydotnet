@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\BulkywebRazor_Temp.props" />
+</Project>
